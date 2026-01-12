@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "age": 28,
+    "image": "https://example.com/images/alex.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "age": 34,
+    "image": "https://example.com/images/maria.jpg"
+  },
+  {
+    "id": 3,
+    "name": "David Chen",
+    "age": 22,
+    "image": "https://example.com/images/david.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Williams",
+    "age": 31,
+    "image": "https://example.com/images/sarah.jpg"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "age": 45,
+    "image": "https://example.com/images/james.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Brown",
+    "age": 27,
+    "image": "https://example.com/images/lisa.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Michael Taylor",
+    "age": 38,
+    "image": "https://example.com/images/michael.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Emma Martinez",
+    "age": 29,
+    "image": "https://example.com/images/emma.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Robert Lee",
+    "age": 41,
+    "image": "https://example.com/images/robert.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Kim",
+    "age": 25,
+    "image": "https://example.com/images/sophia.jpg"
+  }
+]
